@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-	int i, j, k, l, m, n, o, s, t, number;
+	int i, j, l, m, n, s, t, number;
 	int p[100], q[100];
 	cin >> number;
 	if(number<100) {
