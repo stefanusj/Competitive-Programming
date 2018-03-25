@@ -1,3 +1,6 @@
+// Status	: Accepted (hardzal)
+// Problems	: http://www.spoj.com/problems/CPTTRN1
+
 #include<bits/stdc++.h>
 using namespace std;
 
