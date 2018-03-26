@@ -24,5 +24,3 @@ int main() {
 		}
 	}	
 }
-// Understand ?
-// Jadi gini ceritanya 

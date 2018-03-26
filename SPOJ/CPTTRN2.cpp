@@ -6,8 +6,8 @@ using namespace std;
 
 int main() {
 	int x, i, j, k;
-	int p[100], q[100];
 	cin >> x;
+	int p[x], q[x];
 	for(i = 0; i < x; i++) {
 		cin >> p[i] >> q[i];
 	}
