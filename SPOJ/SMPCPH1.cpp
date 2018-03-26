@@ -1,18 +1,16 @@
 // Status: Accepted (riskimidiw)
-//Problem : http://www.spoj.com/problems/SMPCPH1/
+// Problem : http://www.spoj.com/problems/SMPCPH1/
 
 #include <iostream>
 using namespace std;
 
 int main() {
-	
-	// your code here
     int n, m;
     string key, cipher[100];
-    
+
     cin >> n; cin.ignore();
     getline(cin, key);
-    
+
     cin >> m; cin.ignore();
     for(int i=0; i<m; i++) {
         getline(cin, cipher[i]);
