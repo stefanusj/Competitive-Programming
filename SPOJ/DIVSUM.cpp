@@ -24,3 +24,8 @@ int main() {
 		}
 	}	
 }
+<<<<<<< HEAD
+=======
+// Understand ?
+// Jadi gini ceritanya 
+>>>>>>> e37daa8f08cadf385a8e3682c55a4141bf8611b0
