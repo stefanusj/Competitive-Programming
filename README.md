@@ -13,5 +13,5 @@ Usahakan gunakan style code yang sama seperti yang lainnya agar terlihat rapih
 Cukup submit pull request dan kami akan memprosesnya
 
 <p align="center">
-👍 <sub><sup>A little project by <a href="http://itc.himatif.or.id/">ITC UPNYK</a></sup></sub> 👍
+ðŸ‘ <sub><sup>A little project by <a href="http://itc.himatif.or.id/">ITC UPNYK</a></sup></sub> ðŸ‘
 </p>
