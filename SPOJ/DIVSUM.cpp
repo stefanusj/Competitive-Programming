@@ -10,7 +10,11 @@ int main() {
 		int x;
 		for(i = 0; i < n; i++) {
 			cin >> x;
+<<<<<<< HEAD
 			
+=======
+
+>>>>>>> 09ebccf9a3028eb8a906167d9a763013e044c712
 			y = 0;
 			for(j = 1; j*j < x; j++) {
 				if(x % j == 0) {
@@ -19,6 +23,7 @@ int main() {
 			}
 			if(j*j==x) y += j;
 			y-=x;
+<<<<<<< HEAD
 			
 			cout << y << endl;
 		}
@@ -26,3 +31,10 @@ int main() {
 }
 // Understand ?
 // Jadi gini ceritanya 
+=======
+
+			cout << y << endl;
+		}
+	}
+}
+>>>>>>> 09ebccf9a3028eb8a906167d9a763013e044c712

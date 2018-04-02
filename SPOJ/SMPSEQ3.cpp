@@ -1,5 +1,5 @@
 // Status: Accepted (riskimidiw)
-//Problem : http://www.spoj.com/problems/SMPSEQ3/
+// Problem : http://www.spoj.com/problems/SMPSEQ3/
 
 #include <iostream>
 using namespace std;
