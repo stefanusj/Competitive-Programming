@@ -6,13 +6,9 @@ using namespace std;
 
 int main() {
 	int x, i, j, k;
-<<<<<<< HEAD
-	int p[100], q[100];
-	cin >> x;
-=======
+
 	cin >> x;
 	int p[x], q[x];
->>>>>>> 09ebccf9a3028eb8a906167d9a763013e044c712
 	for(i = 0; i < x; i++) {
 		cin >> p[i] >> q[i];
 	}
