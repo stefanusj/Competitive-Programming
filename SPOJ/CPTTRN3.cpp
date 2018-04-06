@@ -6,6 +6,7 @@ using namespace std;
 
 int main() {
 	int i, j, k, m, n, s, t, number;
+
 	cin >> t;
 	int l[t], c[t];
 	for(i = 0; i < t; i++) {
