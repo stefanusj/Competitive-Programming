@@ -1,3 +1,6 @@
+// Status  : Accepted
+// Problem : Problem/Hex-Number.md
+
 #include <bits/stdc++.h>
 using namespace std;
 

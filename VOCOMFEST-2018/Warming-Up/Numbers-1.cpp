@@ -1,3 +1,6 @@
+// Status  : Accepted
+// Problem : Problem/Numbers.md
+
 #include<bits/stdc++.h>
 using namespace std;
 void quickSort(int *arr, int kiri, int kanan) {
