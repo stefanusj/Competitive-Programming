@@ -1,31 +1,33 @@
-// Status: Runtime Error
-// Problem: http://www.spoj.com/submit/PRIME1/
+// Status  : Accepted (riskimidiw)
+// Problem : http://www.spoj.com/problems/PRIME1/
 
 #include <iostream>
-
 using namespace std;
 
-main(){
+bool isPrime(long x) {
+    if(x < 2) return false;
+    for(int i=2; i*i<=x; i++) {
+        if(x % i == 0) {
+            return false;
+        }
+    }
+    return true;
+}
+
+int main() {
     int t;
     long m, n;
+    
     cin >> t;
-    while(t--){
+    for(int i=0; i<t; i++) {
         cin >> m >> n;
-
-        bool prime[n];
-
-        for(long i=2;i<=n;i++){
-            prime[i] = true;
-        }
-
-        for(long i=2;i<=n;i++){
-            if(prime[i]){
-                for(long j=i*2;j<=n;j+=i){
-                    prime[j] = false;
-                }
-                if(i>=m) cout << i << endl;
+        for(int j=m; j<=n; j++) {
+            if(isPrime(j)) {
+                cout << j << endl;
             }
         }
         cout << endl;
     }
+    
+    return 0;
 }
