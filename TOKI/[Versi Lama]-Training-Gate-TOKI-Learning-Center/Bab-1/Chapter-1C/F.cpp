@@ -1,5 +1,5 @@
 // Status   : Accepted (hardzal)
-// Problem  : https://training.ia-toki.org/training/curriculums/2/courses/2/chapters/19/problems/99/
+// Problem  : https://training.ia-toki.org/training/curriculums/2/courses/2/chapters/22/problems/99/
 
 #include<iostream>
 using namespace std;

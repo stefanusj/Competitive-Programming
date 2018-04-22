@@ -1,6 +1,6 @@
 #include<iostream>
 // Status   : Accepted (hardzal)
-// Problem  : https://training.ia-toki.org/training/curriculums/2/courses/2/chapters/19/problems/105/
+// Problem  : https://training.ia-toki.org/training/curriculums/2/courses/3/chapters/24/problems/105/
 
 #include<vector>
 using namespace std;
